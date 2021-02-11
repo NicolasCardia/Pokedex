@@ -1,2 +1,2 @@
 # Pokedex
-Projeto feito em html simulando uma pokedex, que informa o tipo dados dos Pokémons 
+Projeto feito em html simulando uma pokedex, que informa os dados dos Pokémons 
